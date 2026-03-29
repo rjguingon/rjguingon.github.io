@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rjguingon/rjguingon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,9 @@ Here are some ideas to get you started:
 <img src="Professional%20Headshot%20Git.jpg" width="150">
 
 ### Bio
-I'm currently a M.S. Data Science & Analytics (AI/ML) student at Old Dominion University.
+I am a Master's student in Data Science & Analytics at Old Dominion Unviversity with a focus on AI & Machine Learning.
+
+Currently, I work in the financial services industry as a Service Representative. Being on the front lines with customers gives me a unique perspective on data. I can see the real-world challenges and needs they represent. My goal is to leverage this domain knowledge to transition into deeper data science roles, using predictive modeling and insights to improve financial products and customer experiences.
 
 ### Resume
-[Download my Resume (PDF)](Rumel_John_Guingon_Resume.pdf)
+[View Resume Here](Rumel_John_Guingon_Resume.pdf)
